@@ -1,0 +1,11 @@
+*~
+objdir/*
+*.out
+*.o
+*.exe
+.vscode/*
+*.ghc
+*.d
+resources/hajscore.csv
+resources/data/hajscore.csv
+play
